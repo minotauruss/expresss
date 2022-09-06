@@ -9,7 +9,14 @@ const courses = [
     { id: 4, name: 'course 4' },
     { id: 5, name: 'course 5' },
     { id: 6, name: 'course 6' },
-    { id: 7, name: 'course 7' }
+    { id: 7, name: 'course 7' },
+    { id: 7, name: 'course 8' },
+    { id: 7, name: 'course 9' },
+    { id: 7, name: 'course 10' },
+    { id: 7, name: 'course 11' },
+    { id: 7, name: 'course 12' },
+    { id: 7, name: 'course 13' },
+    { id: 7, name: 'course 14' },
 
 ]
 
